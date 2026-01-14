@@ -49,10 +49,9 @@
 }
 
 .profile__edit-btn {
-  background-color: none;
+  background-color: transparent;
   display: flex;
   margin-top: auto;
-  border-radius: 16px;
   border: transparent;
   opacity: 0.4;
 }
