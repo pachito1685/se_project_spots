@@ -20,11 +20,7 @@ This project is made so all the elements are displayed correctly on popular scre
 
 ## Deployment
 
-- [Deployment Link]
-
-**Figma**
-
-- [Link to the project on Figma] https://pachito1685.github.io/se_project_spots/
+- [Deployment Link] https://pachito1685.github.io/se_project_spots/
 
 **Images**
 
