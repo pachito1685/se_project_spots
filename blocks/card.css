@@ -7,6 +7,7 @@
 }
 
 .card__content {
+  margin-top: 12px;
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -27,9 +28,12 @@
 }
 
 .card__title {
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
   font-size: 20px;
   font-weight: 500;
-  font-style: poppins;
+  font-style: "Poppins", Arial, sans-serif
   max-width: 353px;
 }
 
@@ -39,9 +43,7 @@
   }
 
   .card__title {
+    font-size: 16px;
     min-width: 235px;
-    white-space: nowrap;
-    overflow: hidden;
-    text-overflow: ellipsis;
   }
 }

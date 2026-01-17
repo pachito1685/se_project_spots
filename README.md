@@ -21,6 +21,7 @@ This project is made so all the elements are displayed correctly on popular scre
 ## Deployment
 
 - [Deployment Link] https://pachito1685.github.io/se_project_spots/
+- [ Video Link] https://1drv.ms/v/c/51dee3e11323bec7/IQB0loFtE8fhQ7ag_hE7dGfAAR9MumH4eybMuvm3TD3DaTY?e=NUgp3D
 
 **Images**
 
